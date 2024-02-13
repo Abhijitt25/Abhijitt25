@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Abhijit!
+## Hi👋, I'm Abhijit!
 
 <!--
 **Abhijitt25/Abhijitt25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
