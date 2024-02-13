@@ -1,20 +1,13 @@
-## Hi👋, I'm Abhijit!
+<h1 align="center"> Hi👋, I'm Abhijit! </h1>
 
-<!--
-**Abhijitt25/Abhijitt25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* 💻 <b>I’m full Stack Developer...😊</b>
+* 🌱 <b> currently Sharpening my skills to evolve into an adept and versatile developer.</b>
+* 🌍 <b>  love for exploring the world...</b>
+* 🌈 <b>Innovate, Collaborate, Code..</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 🌐 Connect with me:
+
+### 🌐 Connect with me on 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devkar_abhijit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhijitdevkar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCtRO3YSzEs7Hpy4oGnAEthw) 
 
 ### 💻 Tech Stack:
