@@ -1,10 +1,11 @@
 <h1 align="center"> Hi👋, I'm Abhijit! </h1>
 
 
-* 💻 <b>I’m full Stack Developer...😊</b>
-* 🌱 <b> currently Sharpening my skills to evolve into an adept and versatile developer.</b>
-* 🌍 <b>  love for exploring the world...</b>
-* 🌈 <b>Innovate, Collaborate, Code..</b>
+* 🚀 Backend-Focused Full Stack Developer  
+💡 Passionate about Java, Spring Boot, Microservices & AI Integration  
+🧠 Exploring Generative AI, Spring AI & Scalable System Design  
+⚡ Building REST APIs, Distributed Systems & Event-Driven Applications  
+📚 Constantly learning Cloud, Kafka, Docker & Backend Architecturev
 
 
 ### 🌐 Connect with me on 
