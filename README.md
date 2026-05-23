@@ -1,11 +1,15 @@
 <h1 align="center"> Hi👋, I'm Abhijit! </h1>
 
 
-* 🚀 Backend-Focused Full Stack Developer  
-💡 Passionate about Java, Spring Boot, Microservices & AI Integration  
-🧠 Exploring Generative AI, Spring AI & Scalable System Design  
-⚡ Building REST APIs, Distributed Systems & Event-Driven Applications  
-📚 Constantly learning Cloud, Kafka, Docker & Backend Architecturev
+🚀 Backend-Focused Full Stack Developer passionate about Java, Spring Boot, Microservices & scalable REST APIs.
+
+🤖 Exploring Generative AI, AI Engineering, Spring AI & OpenAI integrations to build intelligent applications.
+
+⚡ Interested in Distributed Systems, Event-Driven Architecture, Kafka, Docker & Cloud-based backend solutions.
+
+🧠 Currently learning Prompt Engineering, RAG (Retrieval-Augmented Generation), LLM Applications & AI Automation through hands-on projects.
+
+📚 Passionate about System Design, Backend Architecture, Continuous Learning & solving real-world engineering problems.
 
 
 ### 🌐 Connect with me on 
