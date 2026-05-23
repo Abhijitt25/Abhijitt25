@@ -7,7 +7,7 @@
 
 ⚡ Interested in Distributed Systems, Event-Driven Architecture, Kafka, Docker & Cloud-based backend solutions.
 
-🧠 Currently learning Prompt Engineering, RAG (Retrieval-Augmented Generation), LLM Applications & AI Automation through hands-on projects.
+🔍 Continuously building, learning & experimenting with Backend Development, Generative AI, System Design architectures.
 
 📚 Passionate about System Design, Backend Architecture, Continuous Learning & solving real-world engineering problems.
 
