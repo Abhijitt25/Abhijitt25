@@ -9,7 +9,7 @@
 
 🔍 Continuously building, learning & experimenting with Backend Development, Generative AI, System Design architectures.
 
-📚 Passionate about System Design, Backend Architecture, Continuous Learning & solving real-world engineering problems.
+
 
 
 ### 🌐 Connect with me on 
