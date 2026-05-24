@@ -1,7 +1,8 @@
 <h1 align="center"> Hi👋, I'm Abhijit! </h1>
 
 
-💻 A Passionate Java Backend Developer | Microservices & AI Enthusiast | CDAC Certified
+💻 <h6>A Passionate Java Backend Developer | Microservices & AI Enthusiast | CDAC Certified </h6>
+
 🚀 Backend-Focused Full Stack Developer passionate about Java, Spring Boot, Microservices & scalable REST APIs.
 
 🤖 Exploring Generative AI, AI Engineering, Spring AI & OpenAI integrations to build intelligent applications.
