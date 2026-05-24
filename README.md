@@ -12,10 +12,9 @@ Backend-focused Software Engineer passionate about scalable systems, AI-powered 
 
 
 - 💻 Backend-Focused Full Stack Developer passionate about Java, Spring Boot & scalable REST APIs
-- ⚡ Interested in Distributed Systems, Kafka, Docker & Cloud-Native Backend Development
+- ⚡ Interested in Distributed Systems,Microservices, Kafka, Docker & Cloud-Native Backend Development
 - 🤖 Exploring Generative AI, AI Engineering, Spring AI & LLM-powered applications
 - 📚 Currently Learning: LLM Engineering, RAG, AI Agents, Cloud Computing & System Design
-- 🎯 Focused on building scalable backend & AI-driven applications
 
 ---
 
