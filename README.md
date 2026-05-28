@@ -44,16 +44,19 @@ Scalable Kafka-based payment architecture with Razorpay integration & Dockerized
 
 ### ⚙️ Backend Development
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-007396?style=plastic&logo=java&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=plastic&logo=microgenetics&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=plastic&logo=spring&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlet-007396?style=plastic&logo=java&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=plastic&logo=springsecurity&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=plastic&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=plastic&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20API-005571?style=plastic&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
 ![OOPs](https://img.shields.io/badge/OOPs-00599C?style=plastic&logo=java&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=plastic&logo=microgenetics&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=plastic&logo=auth0&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=apache%20maven&logoColor=white)
+![J2EE](https://img.shields.io/badge/J2EE-007396?style=plastic&logo=java&logoColor=white)
 
 ---
 
